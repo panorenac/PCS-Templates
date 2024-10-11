@@ -8,3 +8,9 @@ PCS template to Visio.vss is a template can be used in the case tools Visio of M
 PCS template to VISIO.vss can be used in Visio by selecting  the option "more shapes" from the "shapes" (left side of the main screen), selecting the option "open symbol gallery", searching the downloaded file in the location, and selecting the button "open". Then, the template should appear in the "shapes".
 
 PCS template to VISIO.vss can be used in Lucidchart by selecting the option "more shapes" (left side of the main screen), selection the option "import shapes", selecting the option "add to new library" and searching the downloaded file in the location. Then, the template should appear in the "shapes".
+
+Join our Group of pre-conceptual schemas:
+https://lnkd.in/e3WwzRw
+
+Subscribe to our channel of pre-conceptual schemas:
+https://lnkd.in/e8PrWRn
